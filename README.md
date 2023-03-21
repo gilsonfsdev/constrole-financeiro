@@ -10,5 +10,5 @@ Abaixo segue um print do sistema:
 
 ### `signin`
 <div>
-  <img src="https://user-images.githubusercontent.com/99298840/225916594-b26f94fa-dc0d-41a6-8d71-af571218ec32.jpg" width=400px" />
+  <img src="https://user-images.githubusercontent.com/99298840/226632385-26ea41a0-5d46-4776-9051-f464d4cef3df.png" width=400px" />
 </div>
